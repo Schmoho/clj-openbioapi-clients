@@ -1,66 +1,84 @@
 {
-  "generated_at": "2025-11-27T20:19:53.167Z",
+  "generated_at": "2025-12-03T10:21:26.711Z",
   "source_repository": "Schmoho/openbioapi",
   "clients": [
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./go.yml",
       "client_repo": "https://github.com/Schmoho/clj-go-client",
-      "updated_at": "2025-11-27T20:19:38.593Z"
+      "updated_at": "2025-12-03T10:21:09.484Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./uniprot/uniprot.json",
       "client_repo": "https://github.com/Schmoho/clj-uniprot-client",
-      "updated_at": "2025-11-27T20:19:39.948Z"
+      "updated_at": "2025-12-03T10:21:10.794Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./uniprot/uniref.json",
       "client_repo": "https://github.com/Schmoho/clj-uniprot-uniref-client",
-      "updated_at": "2025-11-27T20:19:41.448Z"
+      "updated_at": "2025-12-03T10:21:11.808Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./uniprot/proteomes.json",
       "client_repo": "https://github.com/Schmoho/clj-uniprot-proteomes-client",
-      "updated_at": "2025-11-27T20:19:42.875Z"
+      "updated_at": "2025-12-03T10:21:12.843Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./uniprot/unirule.json",
       "client_repo": "https://github.com/Schmoho/clj-uniprot-unirule-client",
-      "updated_at": "2025-11-27T20:19:44.470Z"
+      "updated_at": "2025-12-03T10:21:13.836Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./uniprot/id-mapping.json",
       "client_repo": "https://github.com/Schmoho/clj-uniprot-id-mapping-client",
-      "updated_at": "2025-11-27T20:19:45.916Z"
+      "updated_at": "2025-12-03T10:21:14.830Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./uniprot/citations.json",
       "client_repo": "https://github.com/Schmoho/clj-uniprot-citations-client",
-      "updated_at": "2025-11-27T20:19:47.393Z"
+      "updated_at": "2025-12-03T10:21:15.953Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./signal.yml",
       "client_repo": "https://github.com/Schmoho/clj-signal-client",
-      "updated_at": "2025-11-27T20:19:48.815Z"
+      "updated_at": "2025-12-03T10:21:16.861Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./ncbi.yaml",
       "client_repo": "https://github.com/Schmoho/clj-ncbi-client",
-      "updated_at": "2025-11-27T20:19:50.524Z"
+      "updated_at": "2025-12-03T10:21:18.878Z"
+    },
+    {
+      "source_repo": "Schmoho/openbioapi",
+      "spec_path": "./physiomeproject.yml",
+      "client_repo": "https://github.com/Schmoho/clj-physiomeproject-client",
+      "updated_at": "2025-12-03T10:21:20.952Z"
+    },
+    {
+      "source_repo": "Schmoho/openbioapi",
+      "spec_path": "./cellml.yml",
+      "client_repo": "https://github.com/Schmoho/clj-cellml-client",
+      "updated_at": "2025-12-03T10:21:22.912Z"
+    },
+    {
+      "source_repo": "Schmoho/openbioapi",
+      "spec_path": "./biomodels.json",
+      "client_repo": "https://github.com/Schmoho/clj-biomodels-client",
+      "updated_at": "2025-12-03T10:21:24.672Z"
     },
     {
       "source_repo": "Schmoho/openbioapi",
       "spec_path": "./kegg.yml",
       "client_repo": "https://github.com/Schmoho/clj-kegg-client",
-      "updated_at": "2025-11-27T20:19:51.860Z"
+      "updated_at": "2025-12-03T10:21:26.285Z"
     }
   ]
 }
